@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @BugHasRevenge
-- 👀 I’m interested in dogs and coding
-- 🌱 I’m currently learning figma nad python
-- 💞️ I’m looking to collaborate on Team Spellforged website!
-- 📫 How to reach me mesage me on discord (@bughasrevenge)
-- 😄 Pronouns: He, Him
-- ⚡ Fun fact: I don´t have life
+Hey, im Bug. 
+
+Im a 15 y/o godot dev and pixel artist from Czechia.
+I know python and lua on top of gdscript.
+
 
 <!---
 BugHasRevenge/BugHasRevenge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
